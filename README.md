@@ -6,7 +6,11 @@ Flow data adjustments in order to compute incremental flow data by Hydro Power P
 The output from https://github.com/tuberculo/incremental is also managed in the scripts to generate the flow input data for Plexos.
 
 # Description
-There are X scripts including the starting one which loads the essential packages and files.
+The basic files must be saved into Original folder.
+
+It is necessary to download one extra file that is missing: **Vazões_Diárias_1931_2019.xlsx** from https://sintegre.ons.org.br
+
+There are X scripts that will work upon the files stored in the Original folder
 
 Scripts are divided based on actions they are realizing.
 
