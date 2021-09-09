@@ -3,7 +3,7 @@ Scripts used to work on Brazilian Hydro Power Plant Flow Data
 
 Flow data adjustments in order to compute incremental flow data by Hydro Power Plant in Brazil using https://github.com/tuberculo/incremental.
 
-The output from https://github.com/tuberculo/incremental is also managed in the scripts to generate the flow input data for Plexos.
+The output from https://github.com/tuberculo/incremental is also managed in this repo scripts to generate the flow input data for Plexos.
 
 # Description
 The basic files must be saved into Original folder. Three out of four files are avaible in this repo (further info about them can be found at https://github.com/DIUANA/Plexos_Flow_Files/blob/main/Original/README.md
